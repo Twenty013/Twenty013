@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Twenty013/Twenty013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Twenty** — co-founder of **CoolGuys** and currently serving as **CTO**.  
 
-Here are some ideas to get you started:
+I love building some unusual projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+**Full-stack web dev**
+- **Frontend:** SvelteKit, TailwindCSS
+- **Backend:** FastAPI, Django
+- **DevOps & Hosting:** Docker ecosystem, Caddy, Nginx, deployment pipelines
+- **Bots & Automation:** Telegram bots (Aiogram)
+
+---
+
+## 🌐 My contacts
+
+- Telegram: [@Twentyk0](https://t.me/Twentyk0)
+- Instagram: [twenty_triti](https://www.instagram.com/twenty_triti/)
+- Discord: `twenty2596`
+
+---
+
+> "There should be some meaningful quote here, but there isn't one."
